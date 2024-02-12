@@ -50,3 +50,7 @@ i{
 .container:hover #span {
   color: rgba(5, 4, 4, 0);
 }
+.content p{
+  color: rgb(255, 17, 0);
+  font-size: 20px;
+}
